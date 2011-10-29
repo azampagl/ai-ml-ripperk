@@ -1,0 +1,7 @@
+Class			Cases			Classified
+
+Hates			2			1
+Loves			4			1
+Likes			3			3
+
+Accuracy: 55.5555555556%

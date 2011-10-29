@@ -1,0 +1,1 @@
+{'Likes': [{'Year': ('==', '2')}, {'Tuition': ('==', '$')}], 'Hates': [{'Learns': ('==', 'No'), 'Homework': ('==', 'Yes')}]}

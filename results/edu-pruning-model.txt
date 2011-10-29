@@ -1,0 +1,3 @@
+IF Learns == No && Homework == Yes THEN Hates
+IF Year == 2 || Tuition == $ THEN Likes
+ELSE Loves

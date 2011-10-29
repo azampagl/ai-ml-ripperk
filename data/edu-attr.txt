@@ -1,0 +1,10 @@
+Friends Yes No
+Parties Yes No
+StudyHours 0-5 6-10 11-20
+Finals 0-3 4-6 7-9
+Homework Yes No
+Tuition $ $$ $$$
+Learns Yes No
+Year 1 2 3 4
+Major CS EE CE
+EnjoyEDU Loves Likes Hates

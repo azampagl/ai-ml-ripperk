@@ -1,0 +1,6 @@
+Class			Cases			Classified
+
+Yes			1			0
+No			3			3
+
+Accuracy: 75.0%

@@ -1,0 +1,2 @@
+IF srv_serror_rate <= 0.25 THEN normal
+ELSE neptune

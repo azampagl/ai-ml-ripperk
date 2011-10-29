@@ -1,0 +1,1 @@
+{'Likes': [{'Tuition': ('==', '$')}], 'Hates': [{'Learns': ('==', 'No')}, {'Major': ('==', 'EE')}]}

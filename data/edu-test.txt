@@ -1,0 +1,4 @@
+Yes Yes 6-10 4-6 Yes $ Yes 3 CE Loves
+No No 0-5 4-6 Yes $ Yes 1 CS Loves
+Yes Yes 6-10 4-6 Yes $$ Yes 2 CE Likes
+No No 11-20 0-3 Yes $$$ No 2 EE Hates

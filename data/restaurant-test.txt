@@ -1,0 +1,4 @@
+No Yes Yes No Full $ Yes No Burger >60 No
+Yes Yes Yes Yes Full $$$ No Yes Italian 10-30 No
+No No No No None $ No No Thai 0-10 No
+Yes Yes Yes Yes Full $ No No Burger 30-60 Yes

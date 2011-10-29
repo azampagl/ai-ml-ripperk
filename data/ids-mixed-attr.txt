@@ -1,0 +1,12 @@
+duration int
+protocol_type tcp udp icmp
+count int
+srv_count int
+serror_rate float
+srv_serror_rate float
+rerror_rate float
+srv_rerror_rate float
+same_srv_rate float
+diff_srv_rate float
+srv_diff_host_rate float
+class neptune normal

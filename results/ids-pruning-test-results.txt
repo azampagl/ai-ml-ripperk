@@ -1,0 +1,6 @@
+Class			Cases			Classified
+
+neptune			100			100
+normal			100			100
+
+Accuracy: 100.0%

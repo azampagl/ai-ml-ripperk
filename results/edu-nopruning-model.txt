@@ -1,0 +1,3 @@
+IF Learns == No || Major == EE THEN Hates
+IF Tuition == $ THEN Likes
+ELSE Loves
