@@ -1,13 +1,4 @@
-============================================
-Python RIPPERK
-
-Aaron Zampaglione
-CSE 5800 Advanced Topics in CS: Learning/Mining and the Internet, Fall 2011
-Proj 01, RIPPERk
-============================================
-
-The python implementation is based on:
-
+Original algorithm based on:
 Fast Effective Rule Induction
 William W. Cohen
 AT&T Bell Laboratories
